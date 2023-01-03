@@ -16,4 +16,4 @@ Terminal Commands:
 create File index.html
 - git add index.html / git add .
 - git commit -m "Added index.html" -m "some description"
-- git push
+- git push origin main
