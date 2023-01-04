@@ -17,3 +17,7 @@ create File index.html
 - git add index.html / git add .
 - git commit -m "Added index.html" -m "some description"
 - git push origin main
+
+## Local Development
+
+1. Open index.html in your browser
